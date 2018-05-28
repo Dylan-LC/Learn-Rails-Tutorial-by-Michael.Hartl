@@ -97,3 +97,10 @@ More specific instructions you can find [here](https://www.learnenough.com/comma
 
 ## Common keyboard operations
 - We can use (Command+R) to refresh a page in Chrome on MacOS, and a hard refresh is (Shift+Command+R)
+
+
+## Process
+Meeting some problems during deploying to HeroKu, which is similar to 
+[this](https://stackoverflow.com/questions/48255314/rails-commands-in-home-directory-result-in-i18n-gem-is-not-available-error) 
+question on Stackoverflow when I try to rebuilt first hello-app project. The hello-app has been realized in my another 
+repository [*hello_app*](https://github.com/Dylan-LC/hello_app.git). Please ignore the one in the **environment** folder. 
