@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Learn-Rails-Tutorial-by-Michael.Hartl.iml" filepath="$PROJECT_DIR$/.idea/Learn-Rails-Tutorial-by-Michael.Hartl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello_app.iml" filepath="$PROJECT_DIR$/.idea/modules/hello_app.iml" />
     </modules>
   </component>
 </project>

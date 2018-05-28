@@ -9,6 +9,9 @@ If you forget some basic writing and formatting syntax in Github, you can the re
 We create [choosealicense.com](https://choosealicense.com/), to help you understand how to license your code. A software 
 license tells others what they can and can't do with your source code, so it's important to make an informed decision.
 
+#### A Ruby tutorial recommended by the *ruby-lang.org*
+[*Programming Ruby: The Pragmatic Programmer's Guide*](http://ruby-doc.com/docs/ProgrammingRuby/)
+
 
 ## Introduction
 This repository is used to record my learn process by following the book **_Ruby on Rails Tutorial_** worten 
@@ -16,8 +19,8 @@ by **Michael Hartl**. You can find this book's online version from [here](https:
 The initial plan to finish realize the examples in this book will be committed by chapter. In other words, we see 
 a chapter as a iteration. However, we still have quite a bit of flexibility in that. Good luck, let's start.
 
-## Common command line tips
 
+## Common command line tips
 | Command | Description |
 |:--- |:--- |
 | `echo <string>` | Print string to screen |
@@ -90,3 +93,7 @@ learning about `less` you’ll get better at navigating the man pages as well. H
 
 Unix commands above are all commands introduced in *Learn Enough Command Line to Be Dangerous* written by Michael Hartl.
 More specific instructions you can find [here](https://www.learnenough.com/command-line-tutorial).
+
+
+## Common keyboard operations
+- We can use (Command+R) to refresh a page in Chrome on MacOS, and a hard refresh is (Shift+Command+R)
